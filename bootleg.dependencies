@@ -1,0 +1,26 @@
+[
+  {
+    "target_path": "device/samsung/universal8890-common",
+    "repository":  "jmpfbmx/android_device_samsung_universal8890-common",
+    "remote":      "github",
+    "revision":    "10.x"
+  },
+  {
+    "target_path": "kernel/samsung/universal8890",
+    "repository":  "8890q/android_kernel_samsung_universal8890",
+    "remote":      "github",
+    "revision":    "lineage-17.1"
+  },
+  {
+    "target_path": "vendor/samsung",
+    "repository":  "8890q/proprietary_vendor_samsung",
+    "remote":      "github",
+    "revision":    "lineage-17.1"
+  },
+  {
+    "target_path": "hardware/samsung",
+    "repository":  "jmpfbmx/android_hardware_samsung",
+    "remote":      "github",
+    "revision":    "10.x"
+  }
+]
