@@ -1,0 +1,26 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "ExyDEP/device_samsung_universal8890-common",
+        "target_path":  "device/samsung/universal8890-common",
+        "branch":       "r11.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "ExyDEP/kernel_samsung_universal8890",
+        "target_path":  "kernel/samsung/universal8890",
+        "branch":       "r11.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "ExyDEP/proprietary_vendor_samsung",
+        "target_path":  "vendor/samsung",
+        "branch":       "r11.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "ExyDEP/hardware_samsung",
+        "target_path":  "hardware/samsung",
+        "branch":       "r11.0"
+    },
+]

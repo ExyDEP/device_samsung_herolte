@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_herolte.mk
+    $(LOCAL_DIR)/revengeos_herolte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_herolte-user \
-    lineage_herolte-userdebug \
-    lineage_herolte-eng
+    revengeos_herolte-user \
+    revengeos_herolte-userdebug \
+    revengeos_herolte-eng
